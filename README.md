@@ -431,4 +431,4 @@ source to your modified version of libgit2.
 
 See the [COPYING file](COPYING) for the full license text.
 
-Test
+Test de merge sur la branche NEWBRANCHMERGE
